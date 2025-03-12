@@ -4,7 +4,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class GuessTheNumber {
+public class jmoss9 {
     public static void main(String[] args) {
         // Create random number generator
         Random rand = new Random();
